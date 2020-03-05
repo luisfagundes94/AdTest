@@ -9,7 +9,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        private const val AD_KEY = "ca-app-pub-3940256099942544~3347511713"
+        private const val AD_KEY = "ca-app-pub-6775487827792270~5647960385"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
