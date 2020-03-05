@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AdTest</string>
+    <string name="logo">logo</string>
+    <string name="sushi_app">Sushi App</string>
+    <string name="default_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="skip">Skip</string>
 </resources>
